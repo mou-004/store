@@ -31,12 +31,16 @@ src/
 
 ## Run the Project
 
-
-##live link :: https://store-01.netlify.app/
-
 ```bash
 npm install
 npm run dev
 ```
 
 Then open the local URL shown in the terminal.
+
+
+
+##live link :: https://store-01.netlify.app/
+
+
+
